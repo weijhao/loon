@@ -1,4 +1,0 @@
-[Script]
-
-cron "0 9,14,18 * * *" script-path=https://raw.githubusercontent.com/weijhao/loon/refs/heads/main/law_monitor_v6.9.js,tag=中国法律监控,timeout=300,enable=true
-  
