@@ -1,0 +1,5 @@
+[Script]
+
+cron "0 20 * * *" script-path=https://raw.githubusercontent.com/Dacanid/loon/refs/heads/main/law_monitor_v3.js?token=GHSAT0AAAAAAEHLKLVESGLWH6DPX6GWBYTO2UUFKOQ
+,tag=中国法律监控,timeout=300,enable=true
+  
